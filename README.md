@@ -8,4 +8,4 @@ Asteroid is the clone of original Asteroids ( space-themed multidirectional shoo
 - Highscore System
 
 
-# please note that Assets are not addded it the reote repository.
+# please note that Assets are not addded it the remote repository.
